@@ -18,3 +18,5 @@ def main():
       en_pass_str = ''.join(de_pass_arr)
       en_pass = int(en_pass_str)
       print("Your passoword has been encoded and stored!")
+    if menu_option == 2:
+      
