@@ -12,5 +12,7 @@ def display_menu():
 
 
 def encoder(string):
+  for i in string
+    
   
   
