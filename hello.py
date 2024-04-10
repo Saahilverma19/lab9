@@ -4,3 +4,13 @@ def display_menu():
         "1. Encode\n
         "2. Decode\n
         "3. Quit\n")
+
+
+
+
+
+
+
+def encoder(string):
+  
+  
